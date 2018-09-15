@@ -7,4 +7,4 @@
 Description: This python version 2.7 file takes in arguments of taxon_id (species), library_source (sequence type (genomic, etc.), instrument_model (sequencing machine used to perform analysis), and the number of results wanted to be returned. This query returns the run accession numbers(s) from the SRA database query using sqlite3.
 
 **License:** Licensed under GNU GPLv3 (LICENSE)
-# Database
+### Database
